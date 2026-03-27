@@ -73,41 +73,45 @@ Confusion Matrix
 📊 Results
 
 Random Forest achieved 85% accuracy
+
 SVM achieved 82% accuracy
-Best performance observed with [model name]
+
 🛠️ Tech Stack
+
 Python
+
 NumPy
+
 Pandas
+
 SciPy
+
 Scikit-learn
+
 Matplotlib / Seaborn
-📁 Project Structure
-├── data/               # Dataset files
-├── notebooks/          # Jupyter notebooks
-├── src/                # Source code
-├── models/             # Saved models
-├── results/            # Outputs and evaluation metrics
-├── README.md
-🚀 How to Run
-Clone the repository:
-git clone https://github.com/your-username/ecg-stress-detection.git
-cd ecg-stress-detection
-Install dependencies:
-pip install -r requirements.txt
-Run the project:
-python main.py
+
 🔍 Applications
+
 Driver monitoring systems
+
 Wearable stress detection devices
+
 Intelligent transportation systems
+
 ⚠️ Limitations
+
 Model performance depends heavily on dataset quality
+
 Limited real-world validation
+
 Not implemented for real-time deployment (unless you actually did it)
+
 📌 Future Work
+
 Real-time stress detection system
+
 Integration with IoT/wearable devices
+
 Use of deep learning models for improved accuracy
 
 👤 Author
