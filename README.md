@@ -1,4 +1,3 @@
-ECG-Based Driver Stress Detection Using Machine Learning
 📖 Overview
 
 This project aims to detect driver stress levels using electrocardiogram (ECG) signals and machine learning models. Stress significantly affects driving performance and reaction time, making it a critical factor in road safety.
