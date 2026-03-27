@@ -14,12 +14,14 @@ Evaluate model performance using standard metrics
 ECG data obtained from:
 Public datasets (or specify dataset name if used)
 / Sensors (if applicable)
-2. Signal Preprocessing
+
+3. Signal Preprocessing
 Noise removal (bandpass filtering)
 Baseline correction
 R-peak detection
 Signal normalization
-3. Feature Extraction
+
+4. Feature Extraction
 
 Key features derived from ECG signals:
 
@@ -37,6 +39,7 @@ LF/HF ratio
 Statistical Features
 
 Mean, variance, standard deviation
+
 4. Model Development
 
 Machine learning algorithms used:
@@ -45,6 +48,7 @@ Support Vector Machine (SVM)
 Random Forest
 Logistic Regression
 (Optional: LSTM / Deep Learning if you actually used it)
+
 5. Model Evaluation
 
 Performance evaluated using:
@@ -55,10 +59,6 @@ Recall
 F1-score
 Confusion Matrix
 📊 Results
-
-⚠️ Replace this section with your actual results. Don’t leave it generic.
-
-Example:
 
 Random Forest achieved 85% accuracy
 SVM achieved 82% accuracy
